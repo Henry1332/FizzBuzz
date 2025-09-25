@@ -15,7 +15,6 @@ public class Multiples {
             if (i % a == 0 || i % b == 0) {
                 count++;
             }
-
         }
         return count;
     }
