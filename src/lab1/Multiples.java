@@ -14,6 +14,7 @@ public class Multiples {
         for (int i = 1; i < n; i++) {
             if (i % a == 0 || i % b == 0) {
                 count++;
+
             }
         }
         return count;
