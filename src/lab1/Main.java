@@ -5,6 +5,7 @@ public class Main {
         FizzBuzz.doFizzBuzz(5);
         FizzBuzz.main(new String[0]);
 
+
     }
 }
 
